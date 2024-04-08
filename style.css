@@ -1,0 +1,29 @@
+body {
+    margin:0;
+    padding:0;
+   
+}
+@font-face{
+    font-family: odin-font;
+    src:url(./Norse-Bold.otf);
+}
+.imageWrapper{
+    position: relative;
+    display: flex;
+}
+
+.backgroundImage{
+   
+}
+
+.odinLogoContainer{
+    display: flex;
+}
+.odinLogo{
+    position: absolute;
+    
+   
+}
+.odinText {
+    font-family: odin-font, sans-serif;
+}
